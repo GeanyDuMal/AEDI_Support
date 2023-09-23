@@ -17,5 +17,5 @@ Votre problème sera traité dans les plus brefs délais.
 
 ### <ins>Usage</ins>
 Ce site est developpé avec PHP et Symfony. Voici les versions actuelles : <br>
-PHP : 8.0.0 <br>
-Symfony : 5.4.10 
+PHP : 8.2.4 <br>
+Symfony : 6.3
