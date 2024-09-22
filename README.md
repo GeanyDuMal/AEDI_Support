@@ -1,5 +1,5 @@
 # Site pour l'AEDI
-## Le site est acutellement en version 3.1.0
+## Le site est acutellement en version 3.2.0
 Ce repository public va servir de support afin que vous puissiez deposer vos requetes ou exprimer vos differents problèmes que les développeurs traiteront des que possible.
 
 ### <ins>Issues</ins>
